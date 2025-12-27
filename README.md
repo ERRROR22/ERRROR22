@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Ritik Sharma 👋<br><br>I'm a B.Tech Computer Science Engineering student at BGSB University (graduating in 2026), with a strong interest in **cybersecurity, AI, and machine learning**.<br><br>### 🔐 <br>- Building open-source projects and sharing what I learn<br><br>---<br><br>🚀 Always open to collaborating on AI, ML, and cybersecurity projects.  <br>You can explore my repositories to see what I’m currently working on!<br>
+# Hi, I'm Ritik Sharma 👋<br><br>I'm a B.Tech Computer Science Engineering student at BGSB University (graduating in 2026), with a strong interest in **cybersecurity, AI, and machine learning**.<br><br>### 🔐 <br>- Building open-source projects and sharing what I learn<br><br><br><br>🚀 Always open to collaborating on AI, ML, and cybersecurity projects.  <br>You can explore my repositories to see what I’m currently working on!<br>
 
 
 ## 🌐 Socials:
